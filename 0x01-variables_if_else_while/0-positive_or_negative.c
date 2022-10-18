@@ -2,8 +2,6 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-
-
 /**
  * main - output  a random number and states whether
  *        it is positive, negative, or zero.
